@@ -1,0 +1,23 @@
+.item a,
+.logo {
+  text-decoration: none;
+  color: purple;
+  font-size: 20px;
+}
+.item {
+  display: inline-block;
+  padding: 20px;
+  cursor: pointer;
+}
+.logo {
+  padding: 20px;
+}
+.items {
+  margin: 0;
+  padding: 0;
+}
+sup {
+  font-size: 16px;
+  font-weight: 600;
+  color: orangered;
+}
